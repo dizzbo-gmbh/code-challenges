@@ -42,4 +42,5 @@ Your application will be reviewed by a team of our engineers. The aspects of you
 #### Web Team
 
 - [Front-End Challenges](web-team/front-end-challenges.md)
+- [Python Challenges](web-team/python-challenges.md)
 
