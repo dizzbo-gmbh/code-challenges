@@ -56,4 +56,4 @@ In order to simplify the deployment process, we *highly* recommend that you use 
 Take as much time as you need. We're expecting this will take you one or two evenings.
 
 ### More Questions?
-Please reach out to us at [recruiting@dizzbo.com](mailto:recruiting@dizzbo.com), we're happy to help!
+Please reach out to us at recruiting **AT** dizzbo **dot** com, we're happy to help!

@@ -90,4 +90,4 @@ If you opt to use redux, feel free to use something that will set up a redux pro
 Take as much time as you need. We're expecting this will take you one or two evenings. (Somewhere up to 2-3 hours if you're new to React.)
 
 ### More Questions?
-Please reach out to us at [recruiting@dizzbo.com](mailto:recruiting@dizzbo.com) , we're happy to help!
+Please reach out to us at recruiting **AT** dizzbo **dot** com, we're happy to help!
