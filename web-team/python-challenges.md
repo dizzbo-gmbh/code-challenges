@@ -14,9 +14,9 @@ For this challenge, you are to architect and build a Python + FastAPI applicatio
 
 * **ACCOUNT CREATION**: User is allowed to create an account with their email address and password. After these credentials are supplied, the user is emailed a one-time use url that they must visit and again supply password. Upon confirmation of the password, the user is presented with a success message and also given a TOTP key that they will need to use when logging into the platform in the future. Accounts are not valid until all steps have been completed
 
-* **LOGIN**: User is asked for their username. Upon receipt of their username, they are emailed a one-time use url which they must visit. When visiting the link, the user has to supply their password and their TOTP code. Once verified, the user is presented with a success message showing them the last previous time they logged. Login is not successful until after all steps are completed
+* **LOGIN**: User is asked for their email address. Upon receipt of their email address, they are emailed a one-time use url which they must visit. When visiting the link, the user has to supply their password and their TOTP code. Once verified, the user is presented with a success message showing them the last previous time they logged. Login is not successful until after all steps are completed
 
-* **DELETE ACCOUNT**: User is allowed to delete their account by supplying their username and password. After these credentials are received, the user is emailed a one-time use url and upon visiting this link, the deletion is effected and user is presented with a success message
+* **DELETE ACCOUNT**: User is allowed to delete their account by supplying their email address and password. After these credentials are received, the user is emailed a one-time use url and upon visiting this link, the deletion is effected and user is presented with a success message
 
 
 ### Build setup
